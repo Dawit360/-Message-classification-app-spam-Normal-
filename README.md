@@ -72,6 +72,7 @@ Follow these steps to run the Spam Detection app locally or in Google Colab.
 #### 1. Clone the Repository
 git clone https://github.com/Dawit360/SMS-Spam-Classification.git
 
+Cd /SMS-Spam-Classification
 #### 2. Install Dependencies
 
 pip install flask scikit-learn pandas numpy
