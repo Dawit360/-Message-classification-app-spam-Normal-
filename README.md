@@ -41,7 +41,7 @@ F1 Score is used as the main metric for model selection.
 
 ## 👨‍💻 Author
 
-**Dawit**
+**Dawit Birhanu**
 
 ---
 
