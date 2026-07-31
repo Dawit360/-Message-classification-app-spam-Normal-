@@ -71,7 +71,7 @@ Follow these steps to run the Spam Detection app locally or in Google Colab.
 
 #### 1. Clone the Repository
 
-git clone https://github.com/YOUR_USERNAME/SMS-Spam-Classification.git
+git clone https://github.com/Dawit306/SMS-Spam-Classification.git
 cd SMS-Spam-Classification
 
 #### 2. Install Dependencies
@@ -104,8 +104,10 @@ http://127.0.0.1:5000
 
 from pyngrok import ngrok
 url = ngrok.connect(5000)
-print(url)
-
+print(url) 
+- - - - - - - - - - -
+for authentication purpose get a token from 
+👉 ngrok Official Website
 #### 5. Open the App
 
 Use the generated public URL to access the app.
@@ -150,7 +152,7 @@ F1 Score is used as the main metric for model selection.
 
 ## 👨‍💻 Author
 
-**Dawit**
+**Dawit Birhanu**
 
 ---
 
@@ -169,7 +171,5 @@ F1 Score is used as the main metric for model selection.
 - Add deep learning models (LSTM, BERT)
 - Improve UI/UX
 - Add email integration
-
----
 
 ⭐ If you like this project, give it a star!
